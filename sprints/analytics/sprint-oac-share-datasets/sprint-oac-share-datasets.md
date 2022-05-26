@@ -7,6 +7,8 @@ When working with datasets in OAC, you have the ability to collaborate with your
 
 ### Within OAC
 
+>**Note:** You must have the DV Author role to complete the following steps.
+
 1. Within your OAC instance, navigate to the **Datasets** tab within the **Data** pane in the navigation menu. Your list of available datasets will be displayed in this window.
 
     ![Datasets tab](images/data-pane.png)
@@ -20,6 +22,7 @@ When working with datasets in OAC, you have the ability to collaborate with your
     ![Access dataset](images/access.png)
 
 4. Once you have selected the user(s) to share this dataset with, determine the access controls you want to grant the user(s). In this scenario, I want the 'oac test' user to only have the ability to read the dataset so I select **Read-Only**. When you are done granting access to user(s), click **Save** to save your changes.
+    >**Note:** As a best practice, you should grant access to Roles rather than individual Users because Users may come and go, whereas Roles are more stable. Even if you are sharing a dataset with one user, create an Application Role for it.
 
     ![Access dataset](images/access-control.png)
 
