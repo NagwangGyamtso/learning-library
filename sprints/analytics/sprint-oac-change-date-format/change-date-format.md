@@ -1,4 +1,4 @@
-# How do I change the default date format of a column in a dataset in Oracle Analyics Cloud (OAC)?
+# How do I change the default date format of a column in a dataset in Oracle Analytics Cloud (OAC)?
 
 Duration: 1 minute
 
@@ -6,15 +6,15 @@ When you are working with date columns in Oracle Analytics Cloud, there are many
 
 ## Change date format
 
-1. In your workbook, open the dataset editor by clicking on **Data** and then clicking the pencil icon of the dataset you want to edit.
+1. In your workbook, open the dataset editor by clicking on **Data** and then clicking the **Pencil** icon of the dataset you want to edit.
 
     ![Dataset editor](images/edit-dataset.png)
 
-2. In the dataset editor, find and select the date column that you want to edit the display format of. This will toggle the data pane for this specific column we have selected.
+2. In the dataset editor, find and select the date column that you want to edit the display format of. This will toggle the **Data Pane** for this specific column we have selected. Click the **Date/Time Format** as shown by the clock icon. 
 
     ![Date editor](images/date-editor.png)
 
-3. In the **Format** section, click the current selection which is **Auto** and you will see the different options you have for formatting your date column. 
+3. In the **Format** section, click the current selection which is **Auto** and you will see the different options you have for formatting your date column.
 
     ![Format options](images/format-options.png)
 
@@ -23,3 +23,6 @@ When you are working with date columns in Oracle Analytics Cloud, there are many
     ![Apply script](images/apply-script.png)
 
 Congratulations, you have learned how to change the default date display format of a date in Oracle Analytics Cloud (OAC)!
+
+## Learn more
+* [Adjust the Display Format of a Date or Number Column](https://docs.oracle.com/en/cloud/paas/analytics-cloud/acubi/adjust-display-format-date-or-number-column.html)

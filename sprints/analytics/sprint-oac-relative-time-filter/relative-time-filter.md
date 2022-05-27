@@ -9,7 +9,7 @@ When working with date columns in your dataset within Oracle Analytics Cloud, yo
 
     ![Drop date](images/drop-date.png)
 
-2. Select hthe **Menu** option on the date filter by clicking on the three dots.
+2. Select the **Menu** option on the **Date** filter by clicking on the three dots.
 
     ![Menu option](images/date-menu.png)
 
@@ -31,3 +31,7 @@ When working with date columns in your dataset within Oracle Analytics Cloud, yo
     **Time Level** lets you choose the granularity of the time from years up to seconds.
 
 Congratulations, you have learned how to create a relative time filter in Oracle Analytics Cloud (OAC)!
+
+## Learn more
+
+* [Relative Time Filters](https://www.wegobeyond.co.uk/oracle-analytics-cloud-105-2-new-feature-focus-relative-time-filters/)
