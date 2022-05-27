@@ -31,10 +31,3 @@ When working with date columns in your dataset within Oracle Analytics Cloud, yo
     **Time Level** lets you choose the granularity of the time from years up to seconds.
 
 Congratulations, you have learned how to create a relative time filter in Oracle Analytics Cloud (OAC)!
-
-## Learn More
-
-*(optional - include links to docs, white papers, blogs, etc)*
-
-* [URL text 1](http://docs.oracle.com)
-* [URL text 2](http://docs.oracle.com)
