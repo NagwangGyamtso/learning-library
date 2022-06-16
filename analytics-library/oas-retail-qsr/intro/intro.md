@@ -27,9 +27,6 @@ Throughout this lab you will:
 ### Prerequisites
 -	Internet Access
 * An Oracle Cloud Account - Please view this workshop's LiveLabs landing page to see which environments are supported. 
->**Note:** If you have a **Free Trial** account, when your Free Trial expires, your account will be converted to an **Always Free** account. You will not be able to conduct Free Tier workshops unless the Always Free environment is available.
-
-
 
 This concludes this lab. You may now **proceed to the next lab.**
 

@@ -31,8 +31,6 @@ This lab assumes you have:
 * An Oracle account
 * All previous labs successfully completed
 
-  > **Note:** If you have a **Free Trial** account, when your Free Trial expires your account will be converted to an **Always Free** account. You will not be able to conduct Free Tier workshops unless the Always Free environment is available. **[Click here for the Free Tier FAQ page.](https://www.oracle.com/cloud/free/faq.html)**
-
 The following files <if type="external">referenced in [Lab: Initialize Environment](?lab=initialize-environment) should already be downloaded and staged as instructed, as they</if> <if type="desktop"> staged under *`/opt/oracle/stage`*</if> are required to complete this lab.
 
 Navigate to the documents directory on the left side of the dialogue box and open **Retail Live Labs Content** directory to find the files needed for the lab. The first file, **Bobby's Burgers & Fries.dva** will be used in the next step and the **bobbysburgerdataset.csv** and **bobbyscustomerdataset.csv** files will be referenced later in lab 7.
